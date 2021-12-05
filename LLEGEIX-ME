@@ -1,0 +1,26 @@
+Exercici 1:
+per crear la branca branca00 he utilitzat: git branch branca00
+i per entrar dins: git checkout branca00
+
+Exercici 5:
+git checkout main, derpres he obert el geany de Prjava02.java
+Hi ha la diferencia que no es mostra l’ultim commit que s’ha fet a la branca00. No hi ha la versio 1.1
+
+Exercici 6:
+No puc veure l'ultima línia afegida que que no hi ha ninguna modificacio a la branca main
+
+Exercici 7:
+git checkout branca00, derpres he obert el geany de Prjava02.java
+Si que es pot veure l'ultima linia ja que a la branca00 s'ha fet aquest canvi
+
+Exercici 10:
+Git merge branca00, així ja tenim la branca main amb tots els commits implementats a la branca branca00
+
+Exercici 12:
+Git push
+Els canvis s’ha realitzat correctament
+Com hem fet un merge, hem fusionat les 2 branques a main, per tant noms s’ha pujat la branca main
+
+Exercici 14:
+git push --set-upstream origin branca01
+La branca main esta a 1 commit de distacia respecte branca01
